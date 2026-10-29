@@ -1,0 +1,12 @@
+target/
+*.class
+
+.vscode/settings.json
+
+.idea/
+
+.settings/
+
+.project
+
+.classpath
